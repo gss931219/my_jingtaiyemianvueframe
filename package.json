@@ -18,8 +18,8 @@
     "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "mockjs": "^1.0.1-beta3",
     "sass-loader": "^8.0.0",
     "scss-loader": "0.0.1",
